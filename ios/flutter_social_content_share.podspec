@@ -16,7 +16,7 @@ A new flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
   s.dependency 'FBSDKCoreKit'
-  s.dependency 'FBSDKShareKit', '~> 11.0.0'
+  s.dependency 'FBSDKShareKit'
 
   s.platform = :ios, '9.0' 
 end
